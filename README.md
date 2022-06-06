@@ -39,3 +39,4 @@ speech_synthesis_result = speech_synthesizer.speak_text_async(text).get()
 更進一步開發
 1. 增加病種類和病徵 (暫時只有一種病-真菌)
 2. 增加train data 暫時還是不太精確
+3. 樹莓派 好卡，如果同時使用語音 和 影像。
