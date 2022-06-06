@@ -19,6 +19,7 @@
 ```
 
 告訴使用者他們植物感染真菌，使用opencv2
+<img width="956" alt="螢幕截圖 2022-06-06 下午8 35 13" src="https://user-images.githubusercontent.com/85872659/172161956-09dddbd5-b7c1-4236-b0a0-a9e161ba5ba3.png">
 ```
 cv2.putText(image, "Downy Mildew", (200, 200), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 255))
 ```
